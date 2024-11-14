@@ -6,7 +6,7 @@ const PORT = 8001;
 // Middleware para parsear JSON
 app.use(express.json());
 app.use(cors({
-    origin: 'http://localhost'
+    origin: '*'
 }));
 
 // Ruta para la suma
