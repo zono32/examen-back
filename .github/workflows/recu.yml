@@ -7,11 +7,9 @@ jobs:
          - 
            name: nombre de usuario
            run: echo ${{github.actor}}
-
          - 
             name: nombre repositorio
             run: echo ${{github.repository}}
-
          - 
             name: nombre rama
             run: echo ${{github.ref_name}}
