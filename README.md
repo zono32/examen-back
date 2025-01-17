@@ -1,4 +1,15 @@
+Realizado por Joaquin Lafuente Espino
+
+enlace a repositorios:
+https://github.com/zono32/examen-back.git
+Commit: e06441bc4c23a079d0b90e6aa135d93baf1ba9e7
+https://github.com/zono32/examen-front.git
+Commit: 86ca1f47f30abef9509e5cf8a6fd6b3c537f6712
+
+
 docker-compose:
+
+
 services:
   backend:
    image: zono32/examen-back:latest
